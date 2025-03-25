@@ -1,0 +1,9 @@
+discord.py
+beautifulsoup4
+fake-useragent
+pandas
+requests
+streamlit
+discord
+python-dotenv
+requests  # If you make API calls
